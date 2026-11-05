@@ -17,6 +17,6 @@ A bilingual consulting website that helps companies, researchers and research te
 A transport extracted from an OpenBot integration: discover tools without immediately starting a backend, keep client sessions separate and avoid replaying uncertain writes. [Read the case](https://github.com/timsmykov/mcp-lifecycle-case-study#the-problem).
 
 ### [Founder Systems](https://github.com/timsmykov/founder-systems)
-An interactive research library for exploring how founders build companies, with original quotations, source context and carefully qualified comparisons. [Open the library](https://founder-systems.timsmykov.chatgpt.site/).
+An interactive research library for exploring how founders build companies, with original quotations, source context and carefully qualified comparisons. [Open the library](https://founder-systems.timsmykov.chatgpt.site/) · [Explore the research-derived skills](https://github.com/timsmykov/founder-lenses).
 
 Each project includes the relevant implementation, decisions and verification details. Public repositories are independently maintained snapshots of selected work.
