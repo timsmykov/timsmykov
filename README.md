@@ -10,8 +10,8 @@ A Raycast dashboard and collection layer for understanding hosts, services and m
 ### [G&L Professional](https://github.com/timsmykov/gl-professional-showcase)
 A professional product website, Telegram bot and backend for two audiences. The case follows the journey from browsing products and webinars to dialogue, bookings and order handling. [Visit the site](https://glprofessional.ru/) · [Try the bot walkthrough](https://timsmykov.github.io/gl-professional-showcase/).
 
-### [Veracto](https://github.com/timsmykov/veracto-site-showcase)
-A bilingual consulting website that helps companies, researchers and research teams find a relevant route into AI adoption. [Explore the site](https://timsmykov.github.io/veracto-site-showcase/).
+### [Veracto](https://github.com/Veracto/veracto-site-showcase)
+A bilingual consulting website that helps companies, researchers and research teams find a relevant route into AI adoption. [Explore the site](https://veracto.github.io/veracto-site-showcase/).
 
 ### [MCP Lifecycle](https://github.com/timsmykov/mcp-lifecycle-case-study)
 A transport extracted from an OpenBot integration: discover tools without immediately starting a backend, keep client sessions separate and avoid replaying uncertain writes. [Read the case](https://github.com/timsmykov/mcp-lifecycle-case-study#the-problem).
