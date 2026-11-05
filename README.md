@@ -1,15 +1,22 @@
 # Tim Smykov
 
-I build software and applied AI workflows, from problem framing and interface design to implementation and verification. I'm a cofounder of **Veracto**, an AI consulting and adoption practice.
+I build products that connect software, applied AI and research. My work spans the full path from framing a problem and designing a user experience to implementation, integrations and verification. I’m a co-founder of [Veracto](https://veracto.ai/), an AI consulting practice.
 
-My work combines product decisions, AI-assisted development and hands-on delivery. These projects show the implementation, the reasoning behind it and what has actually been verified.
+## Selected work
 
-| Project | What I built | Explore |
-| --- | --- | --- |
-| **[Infrastructure Observatory](https://github.com/timsmykov/infrastructure-observatory)** | A collection and aggregation layer with an English Raycast dashboard for host resources, discovered services and data freshness. | [Synthetic demo](https://timsmykov.github.io/infrastructure-observatory/) · [Case study](https://github.com/timsmykov/infrastructure-observatory/blob/main/docs/case-study.md) |
-| **[G&L Professional](https://github.com/timsmykov/gl-professional-showcase)** | A professional product website, Telegram bot and FastAPI/PostgreSQL backend, with a reproducible synthetic dialogue walkthrough. | [Website](https://glprofessional.ru/) · [Bot walkthrough](https://timsmykov.github.io/gl-professional-showcase/) · [Case study](https://github.com/timsmykov/gl-professional-showcase/blob/main/docs/case-study.md) |
-| **[Veracto](https://github.com/timsmykov/veracto-site-showcase)** | A bilingual consulting website translating audience needs and offer boundaries into clear routes, content and interactions. | [Bilingual preview](https://timsmykov.github.io/veracto-site-showcase/) · [Case study](https://github.com/timsmykov/veracto-site-showcase/blob/main/docs/case-study.md) |
-| **[MCP Lifecycle](https://github.com/timsmykov/mcp-lifecycle-case-study)** | A portable transport from my OpenBot integration: lazy discovery, separate client sessions and explicit handling of uncertain write outcomes. | [Implementation and checks](https://github.com/timsmykov/mcp-lifecycle-case-study#run-the-checks) |
-| **[Founder Systems](https://github.com/timsmykov/founder-systems)** | An interactive research library with source quotations, editorial comparisons and traceable evidence. | [Application](https://founder-systems.timsmykov.chatgpt.site/) · [Methodology](https://github.com/timsmykov/founder-systems/blob/main/docs/methodology.md) |
+### [Infrastructure Observatory](https://github.com/timsmykov/infrastructure-observatory)
+A Raycast dashboard and collection layer for understanding hosts, services and monitoring coverage. It makes stale and missing observations visible alongside resource metrics. [Explore the synthetic demo](https://timsmykov.github.io/infrastructure-observatory/).
 
-Each repository documents my contribution, upstream components and verification limits. Public editions are manually selected, independent releases; they have no automatic connection to private development or production deployments.
+### [G&L Professional](https://github.com/timsmykov/gl-professional-showcase)
+A professional product website, Telegram bot and backend for two audiences. The case follows the journey from browsing products and webinars to dialogue, bookings and order handling. [Visit the site](https://glprofessional.ru/) · [Try the bot walkthrough](https://timsmykov.github.io/gl-professional-showcase/).
+
+### [Veracto](https://github.com/timsmykov/veracto-site-showcase)
+A bilingual consulting website that helps companies, researchers and research teams find a relevant route into AI adoption. [Explore the site](https://timsmykov.github.io/veracto-site-showcase/).
+
+### [MCP Lifecycle](https://github.com/timsmykov/mcp-lifecycle-case-study)
+A transport extracted from an OpenBot integration: discover tools without immediately starting a backend, keep client sessions separate and avoid replaying uncertain writes. [Read the case](https://github.com/timsmykov/mcp-lifecycle-case-study#the-problem).
+
+### [Founder Systems](https://github.com/timsmykov/founder-systems)
+An interactive research library for exploring how founders build companies, with original quotations, source context and carefully qualified comparisons. [Open the library](https://founder-systems.timsmykov.chatgpt.site/).
+
+Each project includes the relevant implementation, decisions and verification details. Public repositories are independently maintained snapshots of selected work.
