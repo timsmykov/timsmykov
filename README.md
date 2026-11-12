@@ -19,4 +19,7 @@ A transport extracted from an OpenBot integration: discover tools without immedi
 ### [Founder Systems](https://github.com/timsmykov/founder-systems)
 An interactive research library for exploring how founders build companies, with original quotations, source context and carefully qualified comparisons. [Open the library](https://founder-systems.timsmykov.chatgpt.site/) · [Explore the research-derived skills](https://github.com/timsmykov/founder-lenses).
 
+### [Machine Learning Portfolio](https://github.com/timsmykov/machine-learning-portfolio)
+Three end-to-end case studies in tabular machine learning: gas production regression, bank customer churn and mushroom toxicity classification. Covers data preparation, model comparison, cross-validation and decision thresholds, with executed notebooks and documented results. [Explore the CatBoost and Gradient Boosting case](https://github.com/timsmykov/machine-learning-portfolio/tree/main/projects/mushroom-toxicity-classification).
+
 Each project includes the relevant implementation, decisions and verification details. Public repositories are independently maintained snapshots of selected work.
