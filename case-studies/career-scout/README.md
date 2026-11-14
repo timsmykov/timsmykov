@@ -26,16 +26,11 @@ combines deterministic checks, synthetic scenarios and bounded live runs.
 ## The system
 
 ```mermaid
-flowchart TD
-    C[Full resumes and candidate preferences] --> P[Configurable search plan]
-    P --> S[HH / Habr / SuperJob / Trudvsem]
-    S --> D[(Versioned full records in SQLite)]
-    D --> Q[Admission and explicit factual constraints]
-    C --> R[Select one or two resumes]
-    Q --> R
-    R --> E[Codex: one resume per batch]
-    E --> V[Validate identities, evidence and preferences]
-    V --> L[Application shortlist and explanations]
+flowchart LR
+    S[Four job sources] --> D[(Full records in SQLite)]
+    D --> R[Resume-based review]
+    C[Resumes and preferences] --> R
+    R --> L[Shortlist with evidence]
 ```
 
 ### Collection that survives interruption
