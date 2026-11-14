@@ -7,6 +7,9 @@ I build products that connect software, applied AI and research. My work spans t
 ### [Infrastructure Observatory](https://github.com/timsmykov/infrastructure-observatory)
 A Raycast dashboard and collection layer for understanding hosts, services and monitoring coverage. It makes stale and missing observations visible alongside resource metrics. [Explore the synthetic demo](https://timsmykov.github.io/infrastructure-observatory/).
 
+### [Career Scout](https://github.com/timsmykov/timsmykov/tree/main/case-studies/career-scout)
+A personal job-discovery pipeline that collects complete vacancies from four sources and matches them against resumes and candidate preferences. Combines recoverable SQLite collection, an agent-facing CLI and Codex evaluation with evidence checks. [Read the alpha case study](https://github.com/timsmykov/timsmykov/tree/main/case-studies/career-scout).
+
 ### [G&L Professional](https://github.com/timsmykov/gl-professional-showcase)
 A professional product website, Telegram bot and backend for two audiences. The case follows the journey from browsing products and webinars to dialogue, bookings and order handling. [Visit the site](https://glprofessional.ru/) · [Try the bot walkthrough](https://timsmykov.github.io/gl-professional-showcase/).
 
