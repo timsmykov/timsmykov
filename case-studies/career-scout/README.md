@@ -4,13 +4,14 @@
 
 `0.1.0 alpha` · `Python 3.12` · `SQLite` · `JSON CLI` · `MIT implementation`
 
-[Back to selected work](../../README.md)
+[Source code](https://github.com/timsmykov/career-scout) · [Configure your search](https://github.com/timsmykov/career-scout/blob/main/docs/personalization.md) · [Back to selected work](../../README.md)
 
 Career Scout turns overlapping job-board results into a personal application
 shortlist. It collects complete vacancies from four Russian platforms, preserves
 them locally and evaluates them against full resumes and candidate preferences.
-It is a working personal alpha. The implementation repository is currently private;
-this page is a public case study, not a downloadable release or hosted demo.
+The implementation is public under MIT, with neutral defaults and user-supplied
+resumes, conditions and credentials. This page describes the working 0.1 alpha;
+it is not a hosted demo or a stable 1.x release.
 
 ## The problem
 
@@ -64,7 +65,8 @@ still does not prove that the model interpreted it correctly.
 | Evidence | Observed result | Limit |
 |---|---|---|
 | Earlier owner-specific workflow | A frozen catalog of 9,385 vacancies completed; 985 unique LLM evaluations | Earlier workflow, not a rerun through the new generic context |
-| 0.1 offline acceptance | 484 passing tests, package builds and Docker data persistence | Execution and contracts, not semantic accuracy |
+| Original 0.1 acceptance | 484 passing tests, package builds and Docker persistence | Historical baseline, not semantic accuracy |
+| Public configurable alpha | 489 passing tests; anonymous clone, install, schema/context/plan preview verified | No real platform/model calls in the fresh-clone smoke |
 | Installed-package scenario | Collection/resume/new through evaluation, shortlist and history | Explicit HTTP and Codex simulators |
 | Bounded live source probes | Search and full details succeeded on all four platforms | Eight HTTP attempts, a point-in-time access check |
 | Live generic model check | Four synthetic vacancies, two resumes; three labels matched | Too small to estimate general quality |
